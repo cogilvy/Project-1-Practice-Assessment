@@ -81,9 +81,9 @@ h1 {
 
 2. As a user, when I enter two numbers (positive or negative) into the input fields and click the '=' button, the numbers should be added together, and the sum of the two numbers should be added to the running total at the bottom of the page.
 
-3. If the running total is greater than 0, there should be a '+' prefixed to the number, and they should both be green.
+3. If the running total is greater than 0, there should be a '+' in front of the number, and they should both be green.
 
-4. If the running total is less than 0, there should be a '-' prefixed to the number, and they should both be red.
+4. If the running total is less than 0, there should be a '-' in front of the number, and they should both be red.
 
 5. If the user has not entered a value in both input fields, the '=' button should not work.
 

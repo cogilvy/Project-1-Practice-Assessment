@@ -10,7 +10,7 @@ View a demo of the app we will be building here: https://project-1-assessment-pr
 ## Getting Started
 
 1. Create an HTML/CSS/JS repl
-2. Copy the following code into your HTML file:
+2. In your repl, replace the HTML file with the code below:
 
 ```html
 <!DOCTYPE html>

@@ -19,7 +19,8 @@ View a demo of the app we will be building here: https://project-1-assessment-pr
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width">
     <title>repl.it</title>
-    <link href="index.css" rel="stylesheet" type="text/css" />
+    <link href="style.css" rel="stylesheet" type="text/css" />
+    <script defer src="script.js"></script>
   </head>
   <body>
     <div>
@@ -27,7 +28,6 @@ View a demo of the app we will be building here: https://project-1-assessment-pr
     </div>
     <button>=</button>
     <h1>RUNNING TOTAL: <span></span></h1>
-    <script src="index.js"></script>
   </body>
 </html>
 ```

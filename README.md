@@ -5,6 +5,8 @@ You will be editing the JS file in an HTML/CSS/JS repl to create a functioning a
 
 View a demo of the app we will be building here: https://project-1-assessment-practice-2.cogilvy.repl.co/
 
+---
+
 ## Getting Started
 
 1. Create an HTML/CSS/JS repl
@@ -78,7 +80,7 @@ h1 {
 
 1. You will need to create three functions. An initialize function, a render function, and a function to handle a user clicking the '=' button.
 
-2. As a user, when I enter two numbers (positive or negative) into the input fields and click the = button, the numbers should be added together, and the sum of the two numbers should be added to the running total at the bottom of the page.
+2. As a user, when I enter two numbers (positive or negative) into the input fields and click the '=' button, the numbers should be added together, and the sum of the two numbers should be added to the running total at the bottom of the page.
 
 3. If the running total is greater than 0, there should be a '+' prefixed to the number, and they should both be green.
 
@@ -87,4 +89,4 @@ h1 {
 5. If the user has not entered a value in both input fields, the '=' button should not work.
 
 
-
+** Make sure to keep looking back at the demo application to check the functionality is the same as your application!**

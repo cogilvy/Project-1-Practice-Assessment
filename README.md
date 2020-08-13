@@ -3,6 +3,8 @@
 
 You will be editing the JS file in an HTML/CSS/JS repl to create a functioning app.
 
+To view an example of the app we will be building, click here [https://project-1-assessment-practice-2.cogilvy.repl.co/]
+
 ### Getting Started
 
 1. Create an HTML/CSS/JS repl

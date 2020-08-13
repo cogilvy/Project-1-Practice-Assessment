@@ -1,4 +1,3 @@
-
 # Project 1 Practice Assessment
 
 You will be editing the JS file in an HTML/CSS/JS repl to create a functioning app modeled after the demo below.
@@ -72,7 +71,7 @@ h1 {
 }
 ```
 
-4. Edit your JS file to make the app function just like the demo. DO NOT ALTER THE HTML OR CSS FILES!
+4. Edit your JS file to make the app function just like the demo. **DO NOT ALTER THE HTML OR CSS FILES!**
 
 ---
 

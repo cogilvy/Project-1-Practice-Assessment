@@ -81,7 +81,7 @@ h1 {
 
 2. As a user, when I enter two numbers (positive or negative) into the input fields and click the '=' button, the numbers should be added together, and the sum of the two numbers should be added to the running total at the bottom of the page. Once the sum has been added to the running total, the inputs should be cleared.
 
-3. If the running total is greater than 0, there should be a '+' in front of the number, and they should both be green.
+3. If the running total is greater than or equal to 0, there should be a '+' in front of the number, and they should both be green.
 
 4. If the running total is less than 0, there should be a '-' in front of the number, and they should both be red.
 

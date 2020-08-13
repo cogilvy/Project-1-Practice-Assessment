@@ -1,22 +1,32 @@
-<img src="https://i.imgur.com/pF2sUV5.jpg">
 
-# SEI Installfest
+# Project 1 Practice Assessment
 
-We'll be installing the following tools.
+You will be editing the JS file in an HTML/CSS/JS repl to create a functioning app.
 
-- Slack
-- Homebrew
-- Xcode
-- VS Code
-- Git
-- Node.js
-- PostgreSQL
-- MongoDB
-- Python
-- Django
-- Spectacle
-- Imgur
-- Zoom
+### Getting Started
+
+1 Create an HTML/CSS/JS repl
+2 Copy the following code into your HTML file:
+
+```html
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <title>repl.it</title>
+    <link href="index.css" rel="stylesheet" type="text/css" />
+  </head>
+  <body>
+    <div>
+      <input id="num1"> + <input id="num2">
+    </div>
+    <button>=</button>
+    <h1>RUNNING TOTAL: <span></span></h1>
+    <script src="index.js"></script>
+  </body>
+</html>
+```
 
 ## Slack
 

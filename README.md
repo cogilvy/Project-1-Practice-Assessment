@@ -89,4 +89,4 @@ h1 {
 5. If the user has not entered a value in both input fields, the '=' button should not work.
 
 
-** Make sure to keep looking back at the demo application to check the functionality is the same as your application!**
+**Make sure to keep looking back at the demo application to check the functionality is the same as your application!**

@@ -1,8 +1,7 @@
 
 # Project 1 Practice Assessment
 
-You will be editing the JS file in an HTML/CSS/JS repl to create a functioning app.
-
+You will be editing the JS file in an HTML/CSS/JS repl to create a functioning app modeled after the demo below.
 View a demo of the app we will be building here: https://project-1-assessment-practice-2.cogilvy.repl.co/
 
 ### Getting Started

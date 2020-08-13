@@ -85,7 +85,6 @@ h1 {
 
 4. If the running total is less than 0, there should be a '-' in front of the number, and they should both be red.
 
-5. If the user has not entered a value in both input fields, the '=' button should not work.
-
+5. If the user has not entered a value into both input fields, the '=' button should not work.
 
 **Make sure to keep looking back at the demo application to check the functionality is the same as your application!**
